@@ -17,4 +17,6 @@ from sklearn.cluster import KMeans<br/>
 from scipy.cluster.hierarchy import linkage, dendrogram<br/>
 from sklearn.cluster import AgglomerativeClustering<br/>
 </br>
+
+# K-means
 K-Means Clustering Algorithm :- K-means clustering is a method used for clustering analysis, especially in data mining and statistics. It aims to partition a set of observations into a number of clusters (k), resulting in the partitioning of the data into Voronoi cells.
